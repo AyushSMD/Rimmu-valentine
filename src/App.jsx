@@ -319,7 +319,7 @@ const TimeTogether = ({ onNext }) => {
   });
 
   useEffect(() => {
-    const startDate = new Date('2024-10-17T01:00:00');
+    const startDate = new Date('2024-09-17T01:00:00');
     
     const updateTime = () => {
       const now = new Date();
@@ -356,7 +356,7 @@ const TimeTogether = ({ onNext }) => {
       </div>
       <div className="time-container">
         <h1 className="time-title">We have been together since...</h1>
-        <p className="time-subtitle">October 17, 2024 at 1:00 AM</p>
+        <p className="time-subtitle">September 17, 2024 at 1:00 AM</p>
         
         <div className="time-display">
           <div className="time-block">
