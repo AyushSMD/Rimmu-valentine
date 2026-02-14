@@ -408,9 +408,9 @@ const MessagePage = ({ onNext }) => {
       <div className="message-container">
         <div className="message-content">
           {/* YOU WILL EDIT THIS SECTION IN VS CODE */}
-          <h1>Your Custom Message Here</h1>
-          <p>Replace this with your heartfelt message to Rimmu!</p>
-          <p>You can add multiple paragraphs, quotes, or anything you'd like.</p>
+          <h1>Thank you for coming in my life Rimmu</h1>
+          <p>You are so fucking cute and that's not even the best thing about you. You have always been by my side and helped me with everything. I am the man I am because of you and I hope we will celebrate every valentines day together forever. I fuck up sometimes but you have always been understanding, I am trying to be a better version of myself for you. I hope you feel safe and happy with me because I feel that way with you always. I am so lucky to have a princess like you in my life. I love you everyday but today we celebrate our love. I love you so so so so much 😘😘😘😘 &#60;3</p>
+          <p>~with love bubu</p>
           {/* END OF EDITABLE SECTION */}
         </div>
         <button onClick={onNext} className="continue-button">
